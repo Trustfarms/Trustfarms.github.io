@@ -1,12 +1,25 @@
-## Welcome to GitHub Pages
+## Trustfarms
 
-You can use the [editor on GitHub](https://github.com/Trustfarms/Trustfarms.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Trustfarms aims to build a network of trust that connects local producers, retailers and consumers through transparency encouraging loyalty and support, promoting sustainability in local communities.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+End consumers can access product information through a mobile app that tracks animal data from shelves all the way to the barn. They will learn about the farm workers' experience, animals, sustainability practices, licences and awards. For example if a farm is certified as organic, Kosher, Halal etc, or is on the process of becoming so. The same goes for retailers.
 
-### Markdown
+Through the app, the consumer can locate the farms, local butcher shops and farmers markets. They can also schedule visits, learn about food festivals, rate and also make donations.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Inspiration
+
+There is an increasing worry about the source of the food in our table and the consumers have the right to know where it comes from and in what conditions it was produced. On the other hand, livestock farm sustainability is costly and, with the smallest margins, small and medium farmers have no incentive to implement better practices in their operations. However, they are the most affected when food scare and fraud scandals make the news and their product loses credibility.
+
+Unlike big retailers like Walmart that partnered with IBM and other large players to strengthen consumer confidence throughout global food chains, smaller food producers and retailers do not have the resources to map their supply chains to the same extent. So for them, there are challenges that can only be overcome through consumer support.
+
+### Team
+
+- Ana Beatriz Gava Canella Teixeira
+- Ashok Ranade
+- Ksenia Vendrova
+- Marc Lijour
+- Michel Levitan Traub
+- Rebeca Souza
 
 ```markdown
 Syntax highlighted code block
